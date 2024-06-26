@@ -1,0 +1,4 @@
+ip_ports:
+  service_ip: '127.0.0.1'
+  service_main_port: 6789
+  instance_count: 10
